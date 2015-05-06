@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Penguin
+tagline:          The Happy Feet
 url:              https://github.com/shaccou/penguin
 paginate:         1
 baseurl:          http://shaccou.github.io/penguin/
