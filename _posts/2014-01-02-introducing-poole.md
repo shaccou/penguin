@@ -3,7 +3,7 @@ layout: post
 title: Introducing Penguin
 ---
 
-*The Happy Feet in Midsomer Murders* tells the story of lost and confused penguin in Midsomer County.
+*The Happy Feet in Midsomer Murders* tells the story of a lost and confused penguin in Midsomer County.
 
 -----
 
@@ -16,4 +16,5 @@ Penguin and it's themes are by preference a forward-thinking project. In additio
 Penguin is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
-Sophia Haccou
+------
+"Sophia Haccou"
