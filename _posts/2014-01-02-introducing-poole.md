@@ -16,3 +16,4 @@ Penguin and it's themes are by preference a forward-thinking project. In additio
 Penguin is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/poole">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+Sophia Haccou
