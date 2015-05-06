@@ -17,4 +17,4 @@ Penguin is developed on and hosted with GitHub. Head to the <a href="https://git
 
 Thanks!
 ------
-"Sophia Haccou"
+<i>Sophia Haccou</i>
